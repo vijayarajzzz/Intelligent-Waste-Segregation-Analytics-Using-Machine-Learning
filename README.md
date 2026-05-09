@@ -25,7 +25,25 @@ Intelligent Waste Segregation Analytics is an AI-powered system that uses Machin
 - Scikit-learn
 
 ---
+## 🗂️ Dataset Categories
 
+The dataset used in this project contains multiple categories of waste materials for training and classification.
+
+<p align="center">
+  <img src="images/dataset.png" alt="Waste Dataset" width="700">
+</p>
+
+### Categories Included
+- Battery
+- Biological
+- Cardboard
+- Clothes
+- Glass
+- Metal
+- Paper
+- Plastic
+- Shoes
+- Trash
 ## ⚙️ Project Workflow
 1. Collect waste image/data samples  
 2. Preprocess the dataset  
